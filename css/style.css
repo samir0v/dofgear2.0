@@ -76,7 +76,7 @@ h1, h2, h3, h4, h5 {
 }
   .dof-cover h1 {
     color:#fff;
-    font-size: 64pt;
+    font-size: 4rem;
   }
 
 .dof-masthead {
@@ -120,7 +120,7 @@ h1, h2, h3, h4, h5 {
 .dof-section,
 .dof-footer {
   padding: 7em 0 7em 0;
-  position: relative;
+  /* position: relative; */
 }
 
 .dof-media {
