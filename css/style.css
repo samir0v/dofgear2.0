@@ -26,6 +26,10 @@ h1, h2, h3, h4, h5 {
   color: #000;
 }
 
+img {
+  transition: 0.5s;
+}
+
 /* COLORS */
 .bg-primary {
   background: #7C1D21 !important;
