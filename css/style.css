@@ -65,7 +65,7 @@ h1, h2, h3, h4, h5 {
 }
 
 .dof-cover {
-  height: 120vh;
+  height: 135vh;
   width: 100%;
   background-size: cover;
   display: flex;
@@ -139,10 +139,19 @@ h1, h2, h3, h4, h5 {
   flex-grow: 1;
   flex-shrink: 1;
   flex-basis: 0%;
+  /* height: %; */
 }
 .dof-feature-icon img{
   height: 120px;
   /* width: 120px; */
+}
+  .mediia-body .btn {
+    position: absolute;
+    bottom: 0;
+  }
+
+.dof-icon img{
+  height: 64px;
 }
 
 .dof-footer {
